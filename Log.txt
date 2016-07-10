@@ -1,0 +1,24 @@
+This file intends to record any updates and resources used while developing Dogpedia. Changes and version features should be easily found here.
+    Maintained by
+        Honghao Zhang, Junyi Xiao
+        July 9, 2016.
+
+
+Name shortcuts: SamZ for Honghao Zhang, (please fill in) for Junyi Xiao.
+
+// Please use dash lines to separate each change. Name needed to be included in between every changes. Dates are recommended but not required.
+
+---------------------------------------------------------------
+Honghao Zhang
+July 1, 2016
+
+Created git repo for Dogpedia. Shared with Xiao.Successfully made first commit.
+git link: https://github.com/samzsagit/Dogpedia.git
+
+---------------------------------------------------------------
+Honghao Zhang
+July 9, 2016
+
+- added basic menu to main activity. Using https://developer.android.com/training/appbar/setting-up.html as guide.
+- added navigation drawer, not operating yet.
+- added font awesome support.
