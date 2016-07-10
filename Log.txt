@@ -4,7 +4,7 @@ This file intends to record any updates and resources used while developing Dogp
         July 9, 2016.
 
 
-Name shortcuts: SamZ for Honghao Zhang, (please fill in) for Junyi Xiao.
+Name shortcuts: SamZ for Honghao Zhang, Yolande for Junyi Xiao.
 
 // Please use dash lines to separate each change. Name needed to be included in between every changes. Dates are recommended but not required.
 
